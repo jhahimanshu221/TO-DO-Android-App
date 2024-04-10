@@ -11,7 +11,21 @@ The ToDo List Android App is a simple yet effective task management application 
 - **User-friendly interface:** The app offers a clean and intuitive interface for seamless task management.
 
 ## Screenshots
-Include screenshots of your app here to give users a visual representation of the interface.
+<div style="display: flex;">
+    <img src="/ToDo/1.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/2.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/3.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/4.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/5.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/6.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/7.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/8.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/9.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/10.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/11.jpg" width="200" style="margin-right: 20px;">
+    <img src="/ToDo/12.jpg" width="200">
+</div>
+
 
 ## Installation
 1. Clone the repository to your local machine.
